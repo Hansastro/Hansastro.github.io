@@ -1,6 +1,3 @@
-# Hansastro Webpage
-Click [here](https://Hansastro.github.io) to go to the Hansastro's webpage
-
 # Welcome on the Hansastro's webpage
 
 The goal of this pages is to present the projects related to Hansastro.
