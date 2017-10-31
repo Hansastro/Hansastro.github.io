@@ -9,4 +9,5 @@ The projects cover different aspect of Astronomy and it is not restricted to a s
 ## Available projects
 
 Actually the following project is under development:
-- [Arduino Focuser](https://hansastro.github.io/Focuser)
+- [Arduino Focuser](https://hansastro.github.io/Focuser) (A focuser for a telescope)
+- [libmytar](https://hansastro.github.io/öibmytar) (A simple library to generate tar files)
