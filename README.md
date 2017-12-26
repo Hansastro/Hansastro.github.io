@@ -13,4 +13,4 @@ Actually the following project is under development:
 - [libmytar](https://hansastro.github.io/libmytar/) (A simple library to generate tar files)
 
 ## For fun
-Some [recipes](https://hansastro.github.io/Recipes/)
+Some [recipes](https://hansastro.github.io/Recipes/) (Only in French for the moment)
