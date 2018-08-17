@@ -10,7 +10,7 @@ The projects cover different aspects of Astronomy and it is not restricted to a 
 
 Actually the following project is under development:
 - [Arduino Focuser](https://hansastro.github.io/Focuser) (A focuser for a telescope)
-- Some [3D objects](https://hansastro.github.io/Astro_3D_Printing/) to print for Astronomy
+- Some [3D objects](https://hansastro.github.io/Astro-3D-Printing/) to print for Astronomy
 - [libmytar](https://hansastro.github.io/libmytar/) (A simple library to generate tar files)
 
 ## For fun
