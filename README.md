@@ -15,3 +15,6 @@ Actually the following project is under development:
 
 ## For fun
 Some [recipes](https://hansastro.github.io/Recipes/) (Only in French for the moment)
+
+## For whom want to learn to program
+Some [tutorial and ideas](https://hansastro.github.io/Programming-Learning/) to learn to program.
